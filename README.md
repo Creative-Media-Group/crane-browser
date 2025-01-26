@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Creative-Media-Group/src.next/kiwi/kiwi_logo_circle.svg" alt="KiwiBrowser"
+  <img src="https://raw.githubusercontent.com/Creative-Media-Group/crane-browser/refs/heads/main/kiwi_logo_circle.svg" alt="KiwiBrowser"
 	title="KiwiBrowser" width="200" height="200"/>
  </p>
 <p align="center">
