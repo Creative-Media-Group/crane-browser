@@ -20,7 +20,6 @@ apply plugin: 'com.github.ben-manes.versions'
 buildscript {
     repositories {
         mavenCentral()
-        jcenter()
         google()
     }
     dependencies {
