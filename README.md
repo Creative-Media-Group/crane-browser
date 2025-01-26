@@ -3,13 +3,13 @@
 	title="KiwiBrowser" width="200" height="200"/>
  </p>
 <p align="center">
-  <a href="https://github.com/Creative-Media-Group/src.next/releases">
-  <img src="https://img.shields.io/github/v/release/Creative-Media-Group/src.next?include_prereleases&label=latest%20release"/>
+  <a href="https://github.com/Creative-Media-Group/crane-browser/releases">
+  <img src="https://img.shields.io/github/v/release/Creative-Media-Group/crane-browser?include_prereleases&label=latest%20release"/>
 </a>
-  <a href="https://github.com/Creative-Media-Group/src.next/release">
-<img src="https://img.shields.io/github/downloads/Creative-Media-Group/src.next/total?label=GitHub%20Downloads&color=%6BDDD5"></a>
-<a href="https://github.com/Creative-Media-Group/src.next/blob/kiwi/LICENSE">
-  <img src="https://img.shields.io/github/license/Creative-Media-Group/src.next?color=%236BDDD5"/></a>
+  <a href="https://github.com/Creative-Media-Group/crane-browser/release">
+<img src="https://img.shields.io/github/downloads/Creative-Media-Group/crane-browser/total?label=GitHub%20Downloads&color=%6BDDD5"></a>
+<a href="https://github.com/Creative-Media-Group/crane-browser/blob/kiwi/LICENSE">
+  <img src="https://img.shields.io/github/license/Creative-Media-Group/crane-browser?color=%236BDDD5"/></a>
 
   </p>
 
@@ -33,7 +33,7 @@ To find the extension ID:
 4. Paste the extension ID into the **Extension install by id** field.  
 5. The extension will install.  
 
-If you really need Kiwi Browser, you can download the [latest published version of Kiwi Browser here](https://github.com/Creative-Media-Group/src.next/releases/tag/12867802748). Do not download Kiwi Browser from any other sources.
+If you really need Kiwi Browser, you can download the [latest published version of Kiwi Browser here](https://github.com/Creative-Media-Group/crane-browser/releases/tag/12867802748). Do not download Kiwi Browser from any other sources.
 
 While your Kiwi Browser installation will still work for some time, it’s essential to explore alternatives like [Microsoft Edge Canary](https://play.google.com/store/apps/details?id=com.microsoft.emmx.canary), [Vivaldi Browser](https://play.google.com/store/apps/details?id=com.vivaldi.browser) or [Mozilla Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) to stay secure and up-to-date.
 
