@@ -39,12 +39,12 @@ buildscript {
 configurations {
     dependencyUpdates.resolutionStrategy {
         componentSelection { rules ->
-            rules.all { ComponentSelection selection ->
+            rules.all { Map attrs ->
                 boolean rejected = ['alpha', 'beta', 'rc', 'cr', 'm', 'preview'].any { qualifier ->
-                    selection.candidate.version ==~ /(?i).*[.-]${qualifier}[.\d-]*/
+                    attrs.selection.candidate.version ==~ /(?i).*[.-]${qualifier}[.\d-]*/
                 }
                 if (rejected) {
-                    selection.reject('Release candidate')
+                    attrs.selection.reject('Release candidate')
                 }
             }
         }
